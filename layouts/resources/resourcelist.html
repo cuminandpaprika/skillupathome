@@ -17,18 +17,29 @@
         {{ range $pages.ByWeight}}
   
         <div class="col col-4 item">
-            {{ if .Params.icon }}
-                <span style="font-size: 108px; color: Dodgerblue;">
-                    <i class="{{ .Params.icon }}"></i>
-                </span>
+          <div style="display:block; height: 108px;">
+          {{ if .Params.iconURL }}
+            <figure>
+            <img style="height:108px;" height="108" width="108" src='{{ .Params.iconURL }}' />
+            </figure>
+          {{ end }}
+          {{ if .Params.icon }}
+              <span style="font-size: 108px; color: Dodgerblue;">
+                  <i class="{{ .Params.icon }}"></i>
+              </span>
+          {{ end }}
+          </div>
+          {{ if .Params.link }}
+              <h4><a href="{{ .Params.link}}">{{ .Title }}</a></h4>
+          {{ end }}
+          {{ if not .Params.link }}
+            <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
             {{ end }}
             
-            
-            
-          <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
           <p>{{ .Params.description }}</p>
         </div>
-  
+        
+        
         {{ end }}
   
       </div>
