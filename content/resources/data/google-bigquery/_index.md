@@ -3,5 +3,5 @@ description: "A collection of learning resources from across the web to help you
 title: "Google BigQuery"
 draft: false
 layout: "resourcelist"
-icon: "fas fa-database"
+iconURL: "https://upload.wikimedia.org/wikipedia/commons/8/89/Google-BigQuery-Logo.svg"
 ---

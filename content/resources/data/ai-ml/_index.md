@@ -3,5 +3,5 @@ description: "A collection of learning resources from across the web to help you
 title: "AI - Machine Learning"
 draft: false
 layout: "resourcelist"
-icon: "fas fa-database"
+icon: "fas fa-flask"
 ---
