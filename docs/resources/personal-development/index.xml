@@ -10,12 +10,75 @@
     
     
     <item>
-      <title>Skill Up at Home</title>
-      <link>https://cuminandpaprika.github.io/skillupathome/resources/personal-development/my-new-doc/</link>
+      <title>Class Central</title>
+      <link>https://cuminandpaprika.github.io/skillupathome/resources/personal-development/class-central/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cuminandpaprika.github.io/skillupathome/resources/personal-development/my-new-doc/</guid>
-      <description>Welcome!</description>
+      <guid>https://cuminandpaprika.github.io/skillupathome/resources/personal-development/class-central/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coursera</title>
+      <link>https://cuminandpaprika.github.io/skillupathome/resources/personal-development/coursera/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuminandpaprika.github.io/skillupathome/resources/personal-development/coursera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Duolingo</title>
+      <link>https://cuminandpaprika.github.io/skillupathome/resources/personal-development/duolingo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuminandpaprika.github.io/skillupathome/resources/personal-development/duolingo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Masterclass</title>
+      <link>https://cuminandpaprika.github.io/skillupathome/resources/personal-development/masterclass/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuminandpaprika.github.io/skillupathome/resources/personal-development/masterclass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MIT Open Courseware</title>
+      <link>https://cuminandpaprika.github.io/skillupathome/resources/personal-development/mit-opencourseware/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuminandpaprika.github.io/skillupathome/resources/personal-development/mit-opencourseware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Open University</title>
+      <link>https://cuminandpaprika.github.io/skillupathome/resources/personal-development/the-open-university/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuminandpaprika.github.io/skillupathome/resources/personal-development/the-open-university/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The science of well-being</title>
+      <link>https://cuminandpaprika.github.io/skillupathome/resources/personal-development/science-wellbeing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuminandpaprika.github.io/skillupathome/resources/personal-development/science-wellbeing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Udemy</title>
+      <link>https://cuminandpaprika.github.io/skillupathome/resources/personal-development/udemy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuminandpaprika.github.io/skillupathome/resources/personal-development/udemy/</guid>
+      <description></description>
     </item>
     
   </channel>

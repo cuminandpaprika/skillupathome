@@ -11,6 +11,12 @@
     <div class=“content”>{{ .Content }}</div>
     <div id="components">
       <div class="row gutters">
+        <nav class=“breadcrumbs”>
+          <ul>
+              <li><a href=””>…</a></li>
+              <li><span>…</span></li>
+          </ul>
+      </nav>
         <!-- only show pages where dir is the same as the _index.md -->
         {{ $pages := .Sections }}
         {{ $pages := union $pages (where .Site.RegularPages ".File.Dir" $parentDir )}}

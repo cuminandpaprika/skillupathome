@@ -10,12 +10,57 @@
     
     
     <item>
-      <title>Skill Up at Home</title>
-      <link>https://cuminandpaprika.github.io/skillupathome/resources/devops/my-new-doc/</link>
+      <title>Bash</title>
+      <link>https://cuminandpaprika.github.io/skillupathome/resources/devops/bash/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cuminandpaprika.github.io/skillupathome/resources/devops/my-new-doc/</guid>
-      <description>Welcome!</description>
+      <guid>https://cuminandpaprika.github.io/skillupathome/resources/devops/bash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloudbuild</title>
+      <link>https://cuminandpaprika.github.io/skillupathome/resources/devops/cloudbuild/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuminandpaprika.github.io/skillupathome/resources/devops/cloudbuild/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Datacamp</title>
+      <link>https://cuminandpaprika.github.io/skillupathome/resources/devops/splunk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuminandpaprika.github.io/skillupathome/resources/devops/splunk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynatrace</title>
+      <link>https://cuminandpaprika.github.io/skillupathome/resources/devops/dynatrace/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuminandpaprika.github.io/skillupathome/resources/devops/dynatrace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Relic</title>
+      <link>https://cuminandpaprika.github.io/skillupathome/resources/devops/new-relic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuminandpaprika.github.io/skillupathome/resources/devops/new-relic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>splunk</title>
+      <link>https://cuminandpaprika.github.io/skillupathome/resources/devops/docker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuminandpaprika.github.io/skillupathome/resources/devops/docker/</guid>
+      <description></description>
     </item>
     
   </channel>

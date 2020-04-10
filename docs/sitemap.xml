@@ -3,7 +3,71 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://cuminandpaprika.github.io/skillupathome/resources/cloud/my-new-doc/</loc>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/saas/adobe-digital-learning/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/saas/adobe-experience-league/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/data/ai-ml/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/data/ai-ml/ai-hub-intro/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/data/ai-ml/ai-hub-intro-video/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/data/ai-ml/ai-platform-notebooks/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/finance/finance-reading/aus-banking/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/cloud/certified-in-a-week/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/cloud/aws-resource-center/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/cloud/azure/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/finance/finance-reading/bis/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/devops/bash/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/finance/finance-reading/apra/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/finance/finance-reading/aus-broker/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/data/google-bigquery/ml-copy-4/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/data/ai-ml/fraud-detection/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/coding-fundamentals/csharp/</loc>
   </url>
   
   <url>
@@ -11,11 +75,27 @@
   </url>
   
   <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/personal-development/class-central/</loc>
+  </url>
+  
+  <url>
     <loc>https://cuminandpaprika.github.io/skillupathome/resources/cloud/</loc>
   </url>
   
   <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/devops/cloudbuild/</loc>
+  </url>
+  
+  <url>
     <loc>https://cuminandpaprika.github.io/skillupathome/resources/coding-fundamentals/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/health/cosmic-kids/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/personal-development/coursera/</loc>
   </url>
   
   <url>
@@ -27,7 +107,39 @@
   </url>
   
   <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/data/data-for-decision-makers/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/data/datacamp/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/devops/splunk/</loc>
+  </url>
+  
+  <url>
     <loc>https://cuminandpaprika.github.io/skillupathome/resources/devops/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/finance/finance-reading/dfa/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/personal-development/duolingo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/devops/dynatrace/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/data/ai-ml/fraud-detection-tensorflow/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/marketing/facebook-blueprint/</loc>
   </url>
   
   <url>
@@ -35,7 +147,91 @@
   </url>
   
   <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/finance/finance-reading/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/health/fitness-blender/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/finance/gartner/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/cloud/gcp/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/data/google-bigquery/ml/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/coding-fundamentals/github/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/coding-fundamentals/go/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/marketing/google-analytics-academy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/data/google-bigquery/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/marketing/google-skillshop/</loc>
+  </url>
+  
+  <url>
     <loc>https://cuminandpaprika.github.io/skillupathome/resources/health/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/health/hip-hop-health/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/health/talk-to-your-kids/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/data/google-bigquery/ingest-batch/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/data/google-bigquery/ingest-real-time/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/data/google-bigquery/intro/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/finance/finance-reading/investopedia/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/coding-fundamentals/java/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/coding-fundamentals/javascript/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/creative/learnsquared/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/cloud/linux/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/data/google-bigquery/load/</loc>
   </url>
   
   <url>
@@ -43,7 +239,47 @@
   </url>
   
   <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/personal-development/masterclass/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/personal-development/mit-opencourseware/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/saas/mulesoft/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/devops/new-relic/</loc>
+  </url>
+  
+  <url>
     <loc>https://cuminandpaprika.github.io/skillupathome/resources/personal-development/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/coding-fundamentals/pluralsight/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/coding-fundamentals/python/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/data/google-bigquery/wikipedia/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/cloud/redhat/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/finance/finance-reading/rba/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/saas/salesforce/</loc>
   </url>
   
   <url>
@@ -55,43 +291,7 @@
   </url>
   
   <url>
-    <loc>https://cuminandpaprika.github.io/skillupathome/resources/coding-fundamentals/my-new-doc/</loc>
-  </url>
-  
-  <url>
-    <loc>https://cuminandpaprika.github.io/skillupathome/resources/creative/my-new-doc/</loc>
-  </url>
-  
-  <url>
-    <loc>https://cuminandpaprika.github.io/skillupathome/resources/data/my-new-doc/</loc>
-  </url>
-  
-  <url>
-    <loc>https://cuminandpaprika.github.io/skillupathome/resources/devops/my-new-doc/</loc>
-  </url>
-  
-  <url>
-    <loc>https://cuminandpaprika.github.io/skillupathome/resources/finance/my-new-doc/</loc>
-  </url>
-  
-  <url>
-    <loc>https://cuminandpaprika.github.io/skillupathome/resources/health/my-new-doc/</loc>
-  </url>
-  
-  <url>
-    <loc>https://cuminandpaprika.github.io/skillupathome/resources/marketing/my-new-doc/</loc>
-  </url>
-  
-  <url>
-    <loc>https://cuminandpaprika.github.io/skillupathome/resources/personal-development/my-new-doc/</loc>
-  </url>
-  
-  <url>
-    <loc>https://cuminandpaprika.github.io/skillupathome/resources/saas/my-new-doc/</loc>
-  </url>
-  
-  <url>
-    <loc>https://cuminandpaprika.github.io/skillupathome/resources/security/my-new-doc/</loc>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/creative/skillshare/</loc>
   </url>
   
   <url>
@@ -99,11 +299,43 @@
   </url>
   
   <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/devops/docker/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/health/star-wars-fitness/</loc>
+  </url>
+  
+  <url>
     <loc>https://cuminandpaprika.github.io/skillupathome/submit/</loc>
   </url>
   
   <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/health/sworkit/</loc>
+  </url>
+  
+  <url>
     <loc>https://cuminandpaprika.github.io/skillupathome/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/personal-development/the-open-university/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/personal-development/science-wellbeing/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/personal-development/udemy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/security/cybrary/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cuminandpaprika.github.io/skillupathome/resources/security/forgerock/</loc>
   </url>
   
   <url>

@@ -10,12 +10,30 @@
     
     
     <item>
-      <title>Skill Up at Home</title>
-      <link>https://cuminandpaprika.github.io/skillupathome/resources/marketing/my-new-doc/</link>
+      <title>Facebook Blueprint</title>
+      <link>https://cuminandpaprika.github.io/skillupathome/resources/marketing/facebook-blueprint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cuminandpaprika.github.io/skillupathome/resources/marketing/my-new-doc/</guid>
-      <description>Welcome!</description>
+      <guid>https://cuminandpaprika.github.io/skillupathome/resources/marketing/facebook-blueprint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google Analytics Academy</title>
+      <link>https://cuminandpaprika.github.io/skillupathome/resources/marketing/google-analytics-academy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuminandpaprika.github.io/skillupathome/resources/marketing/google-analytics-academy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google Skillshop</title>
+      <link>https://cuminandpaprika.github.io/skillupathome/resources/marketing/google-skillshop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuminandpaprika.github.io/skillupathome/resources/marketing/google-skillshop/</guid>
+      <description></description>
     </item>
     
   </channel>

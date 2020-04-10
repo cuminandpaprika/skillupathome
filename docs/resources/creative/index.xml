@@ -10,12 +10,21 @@
     
     
     <item>
-      <title>Skill Up at Home</title>
-      <link>https://cuminandpaprika.github.io/skillupathome/resources/creative/my-new-doc/</link>
+      <title>Learnsquared</title>
+      <link>https://cuminandpaprika.github.io/skillupathome/resources/creative/learnsquared/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cuminandpaprika.github.io/skillupathome/resources/creative/my-new-doc/</guid>
-      <description>Welcome!</description>
+      <guid>https://cuminandpaprika.github.io/skillupathome/resources/creative/learnsquared/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skillshare</title>
+      <link>https://cuminandpaprika.github.io/skillupathome/resources/creative/skillshare/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuminandpaprika.github.io/skillupathome/resources/creative/skillshare/</guid>
+      <description></description>
     </item>
     
   </channel>

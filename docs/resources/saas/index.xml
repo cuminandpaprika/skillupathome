@@ -10,12 +10,39 @@
     
     
     <item>
-      <title>Skill Up at Home</title>
-      <link>https://cuminandpaprika.github.io/skillupathome/resources/saas/my-new-doc/</link>
+      <title>Adobe Digital Learning</title>
+      <link>https://cuminandpaprika.github.io/skillupathome/resources/saas/adobe-digital-learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cuminandpaprika.github.io/skillupathome/resources/saas/my-new-doc/</guid>
-      <description>Welcome!</description>
+      <guid>https://cuminandpaprika.github.io/skillupathome/resources/saas/adobe-digital-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adobe Experience League</title>
+      <link>https://cuminandpaprika.github.io/skillupathome/resources/saas/adobe-experience-league/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuminandpaprika.github.io/skillupathome/resources/saas/adobe-experience-league/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mulesoft</title>
+      <link>https://cuminandpaprika.github.io/skillupathome/resources/saas/mulesoft/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuminandpaprika.github.io/skillupathome/resources/saas/mulesoft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Salesforce</title>
+      <link>https://cuminandpaprika.github.io/skillupathome/resources/saas/salesforce/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuminandpaprika.github.io/skillupathome/resources/saas/salesforce/</guid>
+      <description></description>
     </item>
     
   </channel>

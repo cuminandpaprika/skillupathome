@@ -10,12 +10,21 @@
     
     
     <item>
-      <title>Skill Up at Home</title>
-      <link>https://cuminandpaprika.github.io/skillupathome/resources/data/my-new-doc/</link>
+      <title>Data for Decision Makers</title>
+      <link>https://cuminandpaprika.github.io/skillupathome/resources/data/data-for-decision-makers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cuminandpaprika.github.io/skillupathome/resources/data/my-new-doc/</guid>
-      <description>Welcome!</description>
+      <guid>https://cuminandpaprika.github.io/skillupathome/resources/data/data-for-decision-makers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Datacamp</title>
+      <link>https://cuminandpaprika.github.io/skillupathome/resources/data/datacamp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cuminandpaprika.github.io/skillupathome/resources/data/datacamp/</guid>
+      <description></description>
     </item>
     
   </channel>
