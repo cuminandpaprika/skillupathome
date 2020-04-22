@@ -13,6 +13,7 @@
     "csv-reader": "^1.0.6",
     "csv-writer": "^1.6.0",
     "glob": "^7.1.6",
+    "js-yaml": "^3.13.1",
     "yaml-front-matter": "^4.1.0"
   }
 }
