@@ -1,7 +1,7 @@
 ---
-description: "A collection of learning resources from across the web to help you skill up while at home"
-title: "AWS - Resource Center"
+description: The full catalogue of AWS learning
 draft: false
-link: "https://aws.amazon.com/getting-started/"
-icon: "fab fa-aws"
+icon: fab fa-aws
+link: 'https://aws.amazon.com/getting-started/'
+title: AWS - Resource Center
 ---

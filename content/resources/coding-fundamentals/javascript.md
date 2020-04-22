@@ -1,7 +1,7 @@
 ---
-description: "A collection of learning resources from across the web to help you skill up while at home"
-title: "Javascript"
+description: Learn the basics of Javascript
 draft: false
-link: "https://javascript.info/"
-iconURL: "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"
+iconURL: 'https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png'
+link: 'https://javascript.info/'
+title: Javascript
 ---

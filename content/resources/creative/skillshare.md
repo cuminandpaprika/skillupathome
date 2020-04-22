@@ -1,7 +1,7 @@
 ---
-description: "A collection of learning resources from across the web to help you skill up while at home"
-title: "Skillshare"
+description: Explore Thousands of Inspiring Classes For Creative and Curious People
 draft: false
-link: "https://www.skillshare.com/"
-iconURL: "https://static.skillshare.com/assets/images/favicons/favicon-512.png"
+iconURL: 'https://static.skillshare.com/assets/images/favicons/favicon-512.png'
+link: 'https://www.skillshare.com/'
+title: Skillshare
 ---

@@ -1,7 +1,7 @@
 ---
-description: "A collection of learning resources from across the web to help you skill up while at home"
-title: "Cosmic Kids Yoga"
+description: Keep your kids active with some basic yoga
 draft: false
-link: "https://www.youtube.com/user/CosmicKidsYoga"
-iconURL: "https://www.cosmickids.com/wp-content/themes/cosmic-kids/images/favicon-152.png"
+iconURL: 'https://www.cosmickids.com/wp-content/themes/cosmic-kids/images/favicon-152.png'
+link: 'https://www.youtube.com/user/CosmicKidsYoga'
+title: Cosmic Kids Yoga
 ---

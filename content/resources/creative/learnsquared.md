@@ -1,7 +1,7 @@
 ---
-description: "A collection of learning resources from across the web to help you skill up while at home"
-title: "Learnsquared"
+description: 'A new form of art education founded, curated, and powered by industry-leading artists'
 draft: false
-link: "https://www.learnsquared.com/"
-iconURL: "https://www.learnsquared.com/sites/all/themes/learn2/images/favicons/favicon-196x196.png"
+iconURL: 'https://www.learnsquared.com/sites/all/themes/learn2/images/favicons/favicon-196x196.png'
+link: 'https://www.learnsquared.com/'
+title: Learnsquared
 ---

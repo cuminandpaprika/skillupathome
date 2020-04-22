@@ -1,7 +1,7 @@
 ---
-description: "A collection of learning resources from across the web to help you skill up while at home"
-title: "Python"
+description: Learn the basics of Python
 draft: false
-link: "https://www.learnpython.org/"
-iconURL: "https://www.python.org//static/apple-touch-icon-144x144-precomposed.png"
+iconURL: 'https://www.python.org//static/apple-touch-icon-144x144-precomposed.png'
+link: 'https://www.learnpython.org/'
+title: Python
 ---

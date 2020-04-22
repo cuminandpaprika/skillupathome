@@ -1,7 +1,7 @@
 ---
-description: "A collection of learning resources from across the web to help you skill up while at home"
-title: "GCP"
+description: All things Google Cloud Platform from Google
 draft: false
-link: "https://google.qwiklabs.com/"
-icon: "fab fa-google"
+icon: fab fa-google
+link: 'https://google.qwiklabs.com/'
+title: GCP
 ---

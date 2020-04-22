@@ -1,7 +1,7 @@
 ---
-description: "A collection of learning resources from across the web to help you skill up while at home"
-title: "New Relic"
+description: 'Courses related to New Relic, software used for monitoring and alerting'
 draft: false
-link: "https://learn.newrelic.com/"
-iconURL: "https://newrelic.com/etc/designs/newrelic/products-icon/apple-touch-icon.png"
+iconURL: 'https://newrelic.com/etc/designs/newrelic/products-icon/apple-touch-icon.png'
+link: 'https://learn.newrelic.com/'
+title: New Relic
 ---

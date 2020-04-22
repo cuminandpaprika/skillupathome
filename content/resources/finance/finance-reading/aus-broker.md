@@ -1,7 +1,7 @@
 ---
-description: "A collection of learning resources from across the web to help you skill up while at home"
-title: "Bash"
+description: Free access to various sites detailing the latest financial news and analysis
 draft: false
-link: "https://www.brokernews.com.au/"
-iconURL: "https://www.brokernews.com.au/images/logo.png"
+iconURL: 'https://www.brokernews.com.au/images/logo.png'
+link: 'https://www.brokernews.com.au/'
+title: Broker News
 ---

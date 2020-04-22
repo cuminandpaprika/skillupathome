@@ -1,7 +1,7 @@
 ---
-description: "A collection of learning resources from across the web to help you skill up while at home"
-title: "Linux"
+description: Explore the very basics of Linux
 draft: false
-link: "https://linuxacademy.com/"
-icon: "fab fa-linux"
+icon: fab fa-linux
+link: 'https://linuxacademy.com/'
+title: Linux
 ---

@@ -1,7 +1,7 @@
 ---
-description: "A collection of learning resources from across the web to help you skill up while at home"
-title: "Fitness Blender"
+description: Video content showcasing specific home exercises
 draft: false
-link: "https://www.youtube.com/user/FitnessBlender"
-iconURL: "https://cloudfront.fitnessblender.com/assets/img/icon/apple-touch-icon.png?v=2"
+iconURL: 'https://cloudfront.fitnessblender.com/assets/img/icon/apple-touch-icon.png?v=2'
+link: 'https://www.youtube.com/user/FitnessBlender'
+title: Fitness Blender
 ---

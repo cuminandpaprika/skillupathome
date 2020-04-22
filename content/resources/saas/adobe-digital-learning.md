@@ -1,7 +1,7 @@
 ---
-description: "A collection of learning resources from across the web to help you skill up while at home"
-title: "Adobe Digital Learning"
+description: All things digital marketing from Adobe
 draft: false
-link: "https://learning.adobe.com/catalog.html?trainingMethod=Virtual%20Public"
-iconURL: "https://www.adobe.com/content/dam/cc/icons/adobe-A.svg"
+iconURL: 'https://www.adobe.com/content/dam/cc/icons/adobe-A.svg'
+link: 'https://learning.adobe.com/catalog.html?trainingMethod=Virtual%20Public'
+title: Adobe Digital Learning
 ---

@@ -1,7 +1,7 @@
 ---
-description: "A collection of learning resources from across the web to help you skill up while at home"
-title: "Adobe Experience League"
+description: All things digital marketing from Adobe
 draft: false
-link: "https://experienceleague.adobe.com/#recommended/solutions/analytics"
-iconURL: "https://experienceleague.adobe.com/assets/img/icon_192.png"
+iconURL: 'https://experienceleague.adobe.com/assets/img/icon_192.png'
+link: 'https://experienceleague.adobe.com/#recommended/solutions/analytics'
+title: Adobe Experience League
 ---

@@ -1,7 +1,6 @@
 ---
-description: "A collection of learning resources from across the web to help you skill up while at home"
-title: "Finance"
 draft: false
-layout: "resourcelist"
-icon: "fas fa-dollar-sign"
+icon: fas fa-dollar-sign
+layout: resourcelist
+title: Finance
 ---

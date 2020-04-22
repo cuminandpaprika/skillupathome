@@ -1,7 +1,7 @@
 ---
-description: "A collection of learning resources from across the web to help you skill up while at home"
-title: "Data for Decision Makers"
+description: Learn about the importance of data from Melbourne University
 draft: false
-link: "https://anz.mbs.edu/"
-iconURL: "https://anz.mbs.edu/assets/images/mbs_logo.jpg"
+iconURL: 'https://anz.mbs.edu/assets/images/mbs_logo.jpg'
+link: 'https://anz.mbs.edu/'
+title: Data for Decision Makers
 ---

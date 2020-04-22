@@ -1,7 +1,7 @@
 ---
-description: "A collection of learning resources from across the web to help you skill up while at home"
-title: "Datacamp"
+description: Another collection of courses designed to teach you about all things data
 draft: false
-link: "https://www.datacamp.com/"
-iconURL: "https://static.datacamp.com/static/favicon-d811b61119bd98ec2518939e56e7bf08.ico"
+iconURL: 'https://static.datacamp.com/static/favicon-d811b61119bd98ec2518939e56e7bf08.ico'
+link: 'https://www.datacamp.com/'
+title: Datacamp
 ---

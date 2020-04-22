@@ -1,7 +1,7 @@
 ---
-description: "A collection of learning resources from across the web to help you skill up while at home"
-title: "Github"
+description: Learn the basics of Github
 draft: false
-link: "https://guides.github.com/activities/hello-world/"
-icon: "fab fa-github"
+icon: fab fa-github
+link: 'https://guides.github.com/activities/hello-world/'
+title: Github
 ---
