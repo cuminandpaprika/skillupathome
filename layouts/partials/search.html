@@ -1,0 +1,52 @@
+<form method="get" action="">
+    <input id="search" name="q" type="text" />
+    <button type="submit" class="button">Search</button>
+    <button type="clear" class="button" ><a href="/search">Clear</a></button>
+</form>
+<div id="results"></div>
+  
+<script src="https://unpkg.com/lunr/lunr.js"></script>
+<!-- Generate a list of posts so we can display them -->
+{{ $p := slice }}
+{{ range (where .Site.RegularPages "Section" "==" "resources") }}
+  {{ $post := dict "link" .RelPermalink "title" .Title "description" .Description "icon" .Params.icon "iconURL" .Params.iconURL}}
+  {{ $p = $p | append $post -}}
+{{ end }}
+<script>
+  const posts = JSON.parse({{ $p | jsonify }});
+  const query = new URLSearchParams(window.location.search);
+  const searchString = query.get('q');
+  document.querySelector('#search').value = searchString;
+  const $target = document.querySelector('#results');
+  // Our index uses title as a reference
+  const postsByTitle = posts.reduce((acc, curr) => {
+    acc[curr.title] = curr;
+    return acc;
+  }, {});
+  
+  fetch('/skillupathome/search-index.json').then(function (res) {
+    return res.json();
+  }).then(function (data) {
+    const index = lunr.Index.load(data);
+    const matches = index.search(searchString);
+    const matchPosts = [];
+    matches.forEach((m) => {
+      matchPosts.push(postsByTitle[m.ref]);
+    });
+    
+    if (matchPosts.length > 0) {
+      $target.innerHTML = matchPosts.map(p => {
+        console.log(p)
+        return `<div>
+          <h4><a href="${p.link}">${p.title}</a></h4>
+          <p>${p.description}...</p>
+          <figure>
+            <img style="height:50px;" height="50" src="${p.iconURL}"" />
+          </figure>
+        </div>`;
+      }).join('');
+    } else {
+      $target.innerHTML = `<div>No search results found</div>`;
+    }
+  });
+  </script>
