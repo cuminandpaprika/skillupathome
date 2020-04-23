@@ -1,6 +1,7 @@
 const fs = require('fs');
 const yamlFront = require('yaml-front-matter');
 const createCsvWriter = require('csv-writer').createObjectCsvWriter;
+const glob = require("glob");
 const csvWriter = createCsvWriter({
     header: [
         {id: 'description', title: 'Description'},
@@ -12,7 +13,7 @@ const csvWriter = createCsvWriter({
     ],
     path: 'file.csv'
 });
-var glob = require("glob");
+
  
 const parseFilePath = filePath => {
     folderPath = filePath.replace("../content/","")
