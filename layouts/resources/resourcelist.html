@@ -8,7 +8,6 @@
     <div id="hero" >
       <h1>{{.Title}}</h1>
       <p class="hero-lead">{{ .Params.bref | safeHTML }}</p>
-      {{ partial "search" .}}
     </div>
     <div class=“content”>{{ .Content }}</div>
     <div id="components">

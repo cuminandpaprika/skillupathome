@@ -1,4 +1,4 @@
-<div class="show-sm">
+<div class="show-sm is-navbar-container">
     <div id="nav-toggle-box">
       <div id="nav-toggle-brand">
         <a href="/skillupathome">{{ .Site.Title }}</a>
@@ -24,6 +24,10 @@
             <a href="{{ .Permalink }}">{{ .Name }}</a>
           </li>
         {{ end }}  
+       <li>
+          {{ partial "search" .}}
+        </li>
       </ul>
+      
     </nav>
   </div>
