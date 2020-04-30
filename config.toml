@@ -33,7 +33,7 @@ min_version = 0.19
 [[menu.main]]
     weight = 1
     name = "Submit"
-    url = "/submit/"
+    url = "/contact/submit/"
 [author]
   name = "cuminandpaprika"
   homepage = "http://findme.surge.sh/"
