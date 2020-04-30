@@ -1,0 +1,35 @@
+{{ define "title"}} {{ .Title}} {{end}}
+{{ define "header"}} {{ partial "header" .}} {{end}}
+{{ define "main"}}
+  <div id="main">
+    <div id="hero">
+      <h1> {{ .Title}} </h1>
+      <p class="hero-lead">
+           {{ .Params.bref | safeHTML }}.
+      </p>
+
+    </div> 
+    <div id="kube-component" class="content">
+    {{ partial "toc" .}}
+
+    {{ .Content}}
+    <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/skillupathome%40gmail.com" method="post">
+      <fieldset id="fs-frm-inputs">
+        <label for="full-name">Full Name</label>
+        <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
+        <label for="email-address">Email Address</label>
+        <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="">
+        <label for="message">Message</label>
+        <textarea rows="5" name="message" id="message" placeholder="Hit us up with your some suggestions!" required=""></textarea>
+        <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
+      </fieldset>
+      <input type="submit" value="Submit">
+    </form>
+<!-- Inject script tag in this template  -->
+    {{if .Params.script}}
+     {{ $script := (delimit (slice "scripts" .Params.script) "/")}}
+    {{ partial (string $script) .}}
+    {{end }}
+    </div>
+    </div>
+{{ end }}
