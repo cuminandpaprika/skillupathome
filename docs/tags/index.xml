@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Skill Up @Home</title>
-    <link>https://cuminandpaprika.github.io/skillupathome/tags/</link>
+    <link>https://www.skillupathome.com/tags/</link>
     <description>Recent content in Tags on Skill Up @Home</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="https://cuminandpaprika.github.io/skillupathome/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.skillupathome.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

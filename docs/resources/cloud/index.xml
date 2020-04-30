@@ -2,64 +2,64 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cloud on Skill Up @Home</title>
-    <link>https://cuminandpaprika.github.io/skillupathome/resources/cloud/</link>
+    <link>https://www.skillupathome.com/resources/cloud/</link>
     <description>Recent content in Cloud on Skill Up @Home</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="https://cuminandpaprika.github.io/skillupathome/resources/cloud/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.skillupathome.com/resources/cloud/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>AWS - Get certified in a week</title>
-      <link>https://cuminandpaprika.github.io/skillupathome/resources/cloud/certified-in-a-week/</link>
+      <link>https://www.skillupathome.com/resources/cloud/certified-in-a-week/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cuminandpaprika.github.io/skillupathome/resources/cloud/certified-in-a-week/</guid>
+      <guid>https://www.skillupathome.com/resources/cloud/certified-in-a-week/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AWS - Resource Center</title>
-      <link>https://cuminandpaprika.github.io/skillupathome/resources/cloud/aws-resource-center/</link>
+      <link>https://www.skillupathome.com/resources/cloud/aws-resource-center/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cuminandpaprika.github.io/skillupathome/resources/cloud/aws-resource-center/</guid>
+      <guid>https://www.skillupathome.com/resources/cloud/aws-resource-center/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Azure</title>
-      <link>https://cuminandpaprika.github.io/skillupathome/resources/cloud/azure/</link>
+      <link>https://www.skillupathome.com/resources/cloud/azure/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cuminandpaprika.github.io/skillupathome/resources/cloud/azure/</guid>
+      <guid>https://www.skillupathome.com/resources/cloud/azure/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GCP</title>
-      <link>https://cuminandpaprika.github.io/skillupathome/resources/cloud/gcp/</link>
+      <link>https://www.skillupathome.com/resources/cloud/gcp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cuminandpaprika.github.io/skillupathome/resources/cloud/gcp/</guid>
+      <guid>https://www.skillupathome.com/resources/cloud/gcp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linux</title>
-      <link>https://cuminandpaprika.github.io/skillupathome/resources/cloud/linux/</link>
+      <link>https://www.skillupathome.com/resources/cloud/linux/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cuminandpaprika.github.io/skillupathome/resources/cloud/linux/</guid>
+      <guid>https://www.skillupathome.com/resources/cloud/linux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Redhat</title>
-      <link>https://cuminandpaprika.github.io/skillupathome/resources/cloud/redhat/</link>
+      <link>https://www.skillupathome.com/resources/cloud/redhat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cuminandpaprika.github.io/skillupathome/resources/cloud/redhat/</guid>
+      <guid>https://www.skillupathome.com/resources/cloud/redhat/</guid>
       <description></description>
     </item>
     
