@@ -356,7 +356,7 @@
   $("#close-search").click(function(){
     window.location.href = getPathFromUrl();
 });
-  fetch('search-index.json').then(function (res) {
+  fetch('/search-index.json').then(function (res) {
     return res.json();
   }).then(function (data) {
     const index = lunr.Index.load(data);
