@@ -354,7 +354,7 @@
   $("#close-search").click(function(){
     window.location.href = getPathFromUrl();
 });
-  fetch('/search-index.json').then(function (res) {
+  fetch('https://www.skillupathome.com/search-index.json').then(function (res) {
     return res.json();
   }).then(function (data) {
     const index = lunr.Index.load(data);
