@@ -69,13 +69,13 @@
   <header> <div class="show-sm is-navbar-container">
     <div id="nav-toggle-box">
       <div id="nav-toggle-brand">
-        <a href="/skillupathome">Skill Up @Home</a>
+        <a href="/">Skill Up @Home</a>
       </div><a data-component="toggleme" data-target="#top" href="#" id="nav-toggle"><i class="kube-menu"></i></a>
     </div>
   </div>
   <div class="hide-sm" id="top">
     <div id="top-brand">
-      <a href="/skillupathome" title="home">Skill Up @Home</a>
+      <a href="/" title="home">Skill Up @Home</a>
     </div>
     <nav id="top-nav-main">
       <ul>
@@ -359,7 +359,7 @@
   $("#close-search").click(function(){
     window.location.href = getPathFromUrl();
 });
-  fetch('/skillupathome/search-index.json').then(function (res) {
+  fetch('search-index.json').then(function (res) {
     return res.json();
   }).then(function (data) {
     const index = lunr.Index.load(data);
@@ -399,7 +399,7 @@
     <p>A collection of learning resources from across the web to help you skill up while at home</p>
   </div>
   <div id="action-buttons">
-    <a class="button primary big" href="/skillupathome/resources/" onclick="_gaq.push(['_trackEvent', 'kube', 'download']);">Explore</a> <a class="button outline big" href="/skillupathome/contact/submit/" onclick="_gaq.push(['_trackEvent', 'kube', 'github']);">Submit a skill</a>
+    <a class="button primary big" href="/resources/" onclick="_gaq.push(['_trackEvent', 'kube', 'download']);">Explore</a> <a class="button outline big" href="/contact/submit/" onclick="_gaq.push(['_trackEvent', 'kube', 'github']);">Submit a skill</a>
   </div>
   
   
